@@ -1,0 +1,7 @@
+artifacts*
+deployments
+cache*
+mnemonic.txt
+0xc282886688e769ebd141a57e92f240a42102eeab.txt
+node_modules/
+yarn-error.log
